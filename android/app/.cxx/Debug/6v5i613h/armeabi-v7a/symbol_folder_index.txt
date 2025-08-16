@@ -1,0 +1,1 @@
+/home/nonnenmacher/code/eldercare/build/app/intermediates/cxx/Debug/6v5i613h/obj/armeabi-v7a

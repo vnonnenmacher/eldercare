@@ -1,0 +1,2 @@
+/home/nonnenmacher/code/eldercare/android/app/.cxx/Debug/6v5i613h/x86_64/CMakeFiles/edit_cache.dir
+/home/nonnenmacher/code/eldercare/android/app/.cxx/Debug/6v5i613h/x86_64/CMakeFiles/rebuild_cache.dir
