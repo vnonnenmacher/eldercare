@@ -1,0 +1,20 @@
+# Flutter/Dart junk we don't need in the image
+**/build/linux
+**/build/macos
+**/build/windows
+**/build/ios
+**/build/android
+**/build/web/canvaskit/.git
+
+# Common ignores
+.git
+.gitignore
+**/.dart_tool
+**/.idea
+**/.vscode
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+**/node_modules
+.DS_Store
