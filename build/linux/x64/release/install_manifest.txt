@@ -1,0 +1,14 @@
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/eldercare
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/icudtl.dat
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/assets/logo.png
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/nonnenmacher/code/eldercare/build/linux/x64/release/bundle/lib/libapp.so
